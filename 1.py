@@ -1,3 +1,5 @@
+# This is a simple Python script to demonstrate the use of if-else statements and f strings.
+
 is_Student=True
 is_Employee=False
 name="Ahsan"
