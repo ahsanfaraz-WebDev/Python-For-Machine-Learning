@@ -24,3 +24,4 @@ print(f"My name as a boolean is {name_bool}")
 print(f"My age is {age_string}")
 print(type(age_string))
 print(type(age))
+
